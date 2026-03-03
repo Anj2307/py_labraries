@@ -1,6 +1,8 @@
 LICENSE
 README.md
 pyproject.toml
+src/fullbayes/__init__.py
+src/fullbayes/classifier.py
 src/fullbayes_iit.egg-info/PKG-INFO
 src/fullbayes_iit.egg-info/SOURCES.txt
 src/fullbayes_iit.egg-info/dependency_links.txt

@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: fullbayes_iit
-Version: 0.1.1
+Version: 0.1.2
 Summary: Full Covariance Gaussian Bayesian Classifier
 Author: Anubhav Goyal
 Requires-Python: >=3.8

@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fullbayes_iit"
+version = "0.1.0"
+description = "Full Covariance Gaussian Bayesian Classifier"
+authors = [
+  { name="Anubhav Goyal" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "scipy"
+]
